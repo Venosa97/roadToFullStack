@@ -1,0 +1,11 @@
+com.devmind.SpringApp.temaCurs7.Autocar=org.springframework.stereotype.Component
+com.devmind.SpringApp.temaCurs7.Automobil=org.springframework.stereotype.Component
+com.devmind.SpringApp.temaCurs7.CascaProtectie=org.springframework.stereotype.Component
+com.devmind.SpringApp.temaCurs7.GenericType=org.springframework.stereotype.Component
+com.devmind.SpringApp.temaCurs7.Greutate=org.springframework.stereotype.Component
+com.devmind.SpringApp.temaCurs7.Masina=org.springframework.stereotype.Component
+com.devmind.SpringApp.temaCurs7.Motocicleta=org.springframework.stereotype.Component
+com.devmind.SpringApp.temaCurs7.Motor=org.springframework.stereotype.Component
+com.devmind.SpringApp.temaCurs7.Roti=org.springframework.stereotype.Component
+com.devmind.SpringApp.temaCurs7.ScauneIncalzite=org.springframework.stereotype.Component
+com.devmind.SpringApp.temaCurs7.permisCategorieD=org.springframework.stereotype.Component
